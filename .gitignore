@@ -1,3 +1,27 @@
+# others
+.DS_Store
+*.txt
+*.pdf
+
+# credentials
+cred*
+Cred*
+
+# practice
+practice.py
+practice.txt
+practice/
+
+# screenshots
+Screenshot*
+screenshot*
+
+# vscode
+.vscode/
+
+#submit
+submit/
+
 # Prerequisites
 *.d
 
